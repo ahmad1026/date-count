@@ -156,7 +156,7 @@ const second = 1000,
       hour = minute * 60,
       day = hour * 24;
 
-let capodanno = new Date(2022,10,29,0,0,0).getTime();
+let capodanno = new Date(2022,10,27,0,0,0).getTime();
 let timer = setInterval(update, 1000);
 
 function update() {
