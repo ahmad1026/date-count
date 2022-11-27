@@ -6,6 +6,7 @@ body {
   }
   canvas{display:block}
   h1 {
+    text-align: center;
     margin-top:50px;
     position: absolute;
     top: 20%;
